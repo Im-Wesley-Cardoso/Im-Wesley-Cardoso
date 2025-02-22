@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hello World! I'm Wesley 
 
-<!--
-**Im-Wesley-Cardoso/Im-Wesley-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width = "380" src="https://github-readme-stats.vercel.app/api?username=Im-Wesley-Cardoso&theme=dracula&show_icons=true&hide_border=false&count_private=true"></br>
+<img width = "380" src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Wesley-Cardoso&theme=dracula&hide_border=false"></br>
+<img width = "380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Wesley-Cardoso&theme=dracula&show_icons=true&hide_border=false&layout=compact">
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
